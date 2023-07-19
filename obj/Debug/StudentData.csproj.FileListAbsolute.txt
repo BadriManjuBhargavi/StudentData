@@ -1,0 +1,8 @@
+C:\DAY 8\StudentData\StudentData\bin\Debug\StudentData.exe.config
+C:\DAY 8\StudentData\StudentData\bin\Debug\StudentData.exe
+C:\DAY 8\StudentData\StudentData\bin\Debug\StudentData.pdb
+C:\DAY 8\StudentData\StudentData\obj\Debug\StudentData.csproj.AssemblyReference.cache
+C:\DAY 8\StudentData\StudentData\obj\Debug\StudentData.csproj.SuggestedBindingRedirects.cache
+C:\DAY 8\StudentData\StudentData\obj\Debug\StudentData.csproj.CoreCompileInputs.cache
+C:\DAY 8\StudentData\StudentData\obj\Debug\StudentData.exe
+C:\DAY 8\StudentData\StudentData\obj\Debug\StudentData.pdb
